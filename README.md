@@ -64,12 +64,15 @@ The dataset features:
 
 ## Screenshots 📸
 
-![Homepage screenshot](screenshots/1.png)
-![Recommendation screenshot](screenshots/2.png)
+![Homepage screenshot](static/s1.png)
+![Recommendation screenshot](static/s2.png)
 
 ## Video 📹
 
-https://github.com/user-attachments/assets/724f023f-dc3d-4939-90e5-c270078f9bfc
+
+https://github.com/user-attachments/assets/4528ca27-35f9-4012-8913-d83ee372e6dd
+
+
 
 ## Contributing 🤝
 
@@ -77,6 +80,6 @@ Contributions are welcome! Feel free to submit issues and enhancement requests. 
 
 ## Final Note 🎉
 
-Thank you for exploring our Crop Recommendation System! We hope it proves useful for farmers and enthusiasts alike. Your feedback and contributions are valuable to us.
+Thank you for exploring our Fertilizer  Recommendation System! We hope it proves useful for farmers and enthusiasts alike. Your feedback and contributions are valuable to us.
 
 Happy farming! 🌱
